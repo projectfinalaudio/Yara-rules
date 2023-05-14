@@ -1,4 +1,5 @@
-# About
+# About : 
+  malware detection patterns that are fully customizable to identify targeted attacks and security threats specific to your environment
 ## What is this?
 A repo containing some of my privately developed Yara rules.
 
